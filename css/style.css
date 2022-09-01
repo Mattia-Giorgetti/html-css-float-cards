@@ -35,6 +35,7 @@ h1 {
     width: calc((100% - 50px) / 3);
     float: left;
     box-shadow: 1px 1px 4px 3px lightgray;
+    min-width: 350px;
 }
 .right {
     float: right;
